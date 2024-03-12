@@ -13,7 +13,7 @@ const CategoryCard = ({ name, image, id, editCategory, deleteCategory }) => {
       <Card.Body>
         <Card.Title>{name}</Card.Title>
         <Button className="me-3" variant="primary">
-          More
+          Read
         </Button>
         <Button
           className="me-3"
